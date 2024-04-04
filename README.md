@@ -3,7 +3,7 @@ Wallet Checker Bot is a Python application that helps users generate a seed phra
 Here is a README.md template for your application:
 ## Requirements
 
-- Python 3.x
+- Python 3.7.1
 - `mnemonic` library (`pip install mnemonic`)
 - `web3` library (`pip install web3`)
 - `requests` library (`pip install requests`)
