@@ -18,7 +18,7 @@ Here is a README.md template for your application:
    cd Wallet-Bruteforcer-Checker
    ```
 
-2. Install the required libraries:
+2. Run the checker:
 
    ```sh
    python main.py
