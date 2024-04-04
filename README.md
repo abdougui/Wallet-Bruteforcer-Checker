@@ -1,5 +1,5 @@
 # Wallet-Bruteforcer-Checker
-Wallet Checker Bot is a Python application that helps users generate a seed phrase (Mnemonic) and check their wallet for funds in Ethereum or Binance Chain. The bot is designed to send a message on Telegram and save a file containing all relevant information if funds are found in the wallet. This tool can be useful for users who want to keep track of their cryptocurrency holdings and receive timely notifications about incoming transactions.
+Wallet Checker Bot is a Python application that helps users generate a seed phrase (Mnemonic) and check their wallet for funds in Ethereum . The bot is designed to send a message on Telegram and save a file containing all relevant information if funds are found in the wallet. This tool can be useful for users who want to keep track of their cryptocurrency holdings and receive timely notifications about incoming transactions.
 Here is a README.md template for your application:
 ## Requirements
 
